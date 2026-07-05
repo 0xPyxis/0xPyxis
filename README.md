@@ -77,12 +77,12 @@
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-c-r&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xPyxis&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav-c-r&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xPyxis&theme=radical" />
 </div>
 
 
@@ -92,9 +92,9 @@
 ### Let's Play Some GitHub Games! 🕹️
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranav-c-r/pranav-c-r/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranav-c-r/pranav-c-r/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranav-c-r/pranav-c-r/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xPyxis/0xPyxis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xPyxis/0xPyxis/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xPyxis/0xPyxis/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -103,9 +103,9 @@
 <div align="center">
   
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav-c-r&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xPyxis&theme=radical" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranav-c-r&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xPyxis&theme=radical" />
 
 </div>
 
