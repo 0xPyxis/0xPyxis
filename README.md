@@ -29,9 +29,13 @@ I build backend systems, full-stack applications, and AI-powered software.
 ## Experience
 
 SIH 2024 Runner-up
+
 Google GenAI 2025 Hackathon Third Runner-up
+
 Ex SWE Intern @ Statts
+
 SWE Intern @ MonksTech
+
 
 ## Open Source
 
