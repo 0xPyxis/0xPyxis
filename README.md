@@ -15,7 +15,7 @@ I build backend systems, full-stack applications, and AI-powered software.
 
 - **Cellexis** — RAG-powered NASA bioscience search engine using semantic search, vector retrieval, knowledge graphs, and an interactive web interface.
 - **LegalAxis** — AI-powered legal assistant for document analysis, compliance workflows, and legal research.
-- **OptiRoute** — AI-powered resource allocation platform combining prediction, optimization, and real-time adaptation.
+- **LeafLense** — AI-powered agricultural assistant combining computer vision, predictive models, and an agent-based backend for plant disease detection, recommendations, and farm monitoring.
 - **Distributed Systems Projects** — Exploring distributed URL shortening, authentication services, key-value storage, distributed messaging, and scalable infrastructure.
 
 ### Technologies
